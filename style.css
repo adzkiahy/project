@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #d2b48c;
+}
+#project {
+  background-color: #d2b48c;
+}
+footer {
+  background-color: #d2b48c;
+  font-family: monospace;
+  font-size: 22px;
+  color: white;
+}
+section {
+  padding-top: 5rem;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+}
